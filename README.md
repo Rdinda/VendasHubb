@@ -49,3 +49,7 @@ Quem instala a versão liberada nunca recebe um beta, e quem instala o beta só 
 
 Aqui ficam **apenas os instaladores e os pacotes de atualização**, publicados automaticamente a cada versão. O código-fonte do
 VendasHubii não está neste repositório. Não registre aqui dados da loja, de clientes ou de pedidos.
+
+## Licença
+
+Aplicativo de uso restrito às lojas e aos usuários autorizados; não é software livre. Veja o arquivo [LICENSE](LICENSE).
